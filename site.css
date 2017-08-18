@@ -1,0 +1,153 @@
+ 
+ @import url('http://fonts.googleapis.com/css?family=Oxygen');
+
+ @import url('http://fonts.googleapis.com/css?family= Righteous');
+ #a
+ {
+  position: relative;
+  top: 5px;
+  left:150px;
+  width: 600px;
+  height: 400px;
+ }
+
+ #bg
+ {
+	background-image : url(x.jpg);
+	background-repeat : no-repeat;
+	background-position: 0 0;
+	background-size : cover;
+	
+}
+
+#divbg
+{
+	position: relative;
+	width: 1600px;
+	background-image : url(F:\Docs\Site\bgttt.jpg);
+	background-repeat : no-repeat;
+	background-position: 0 0;
+	background-size : cover;
+	
+}
+ #h1
+ {
+   position: relative;
+   top: 0px;
+   font-size:110pt;
+   color : #367588;
+ } 	
+ #q 
+ {
+      font-family: helvetica;
+      position: absolute;
+      top: 50px;
+      right: 50px;
+      background: lightyellow;
+ } 
+ #im1
+ {
+  position: absolute;
+  left: 30px;
+  top:300px;
+  text-align:center;
+  width: 1600px;
+  height: 792px; 
+  font-size:70pt;
+  color : #1B1B1B;
+  font-family: Oxygen; 
+  vertical-align: middle;
+
+ }
+
+
+ #pa
+ {
+ 	font-family: Oxygen;
+ 	font-size: 36px;
+ 	color: 
+ 	word-wrap: normal;
+ 	text-align: center;
+ }
+
+ #cloud
+ {
+    width: 800px;
+    height: 500px;
+    left: 350px;
+    text-align: center;
+ 	background-image : url(000cloud.jpg);
+	background-repeat : no-repeat;
+	background-position: 0 0;
+	background-size : cover;
+	position: absolute;
+	top: 250px;
+	opacity: 0.6;
+ }
+ #hobby1
+ {
+ 	border-radius: 20px;
+ 	position: absolute;
+ 	background-image : url(Bro.jpg);
+	background-repeat : no-repeat;
+	background-position: 0 0;
+	background-size : cover;
+    width: 400px;
+    height: 450px;
+    left: 100px;
+    top: 825px;
+    opacity: 0.6;
+
+    	
+ }
+
+  #hobby2
+ {
+ 	border-radius: 20px;
+ 	position: absolute;
+ 	background-image : url(Bro.jpg);
+	background-repeat : no-repeat;
+	background-position: 0 0;
+	background-size : cover;
+    width: 400px;
+    height: 450px;
+    left: 580px;
+    top: 825px;
+    opacity: 0.6;
+}
+#hobby3
+ {
+ 	border-radius: 20px;
+ 	position: absolute;
+ 	background-image : url(Bro.jpg);
+	background-repeat : no-repeat;
+	background-position: 0 0;
+	background-size : cover;
+    width: 400px;
+    height: 450px;
+    left: 1060px;
+    top: 825px;
+    opacity: 0.6;
+}
+
+hobby3:hover
+{
+	background-color: #8d6e63;
+}
+
+img
+{
+  position: absolute;
+  float: right;
+
+	width: 800px;
+	height: 500px;
+  top: 1700px;
+	left: 100px;
+}
+#float1
+{
+  top: 1700px;
+  font-family: Righteous;
+  font-size: 28px;
+}
